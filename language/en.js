@@ -91,11 +91,11 @@ var Translations = {
             "label": "Portfolio Allocation",
             "states": [
                 {
-                    "cardId": "77a834f0",
+                    "cardId": "6a0c3d88",
                     "width": 20
                 },
                 {
-                    "cardId": "c23a68c9",
+                    "cardId": "125bf54f",
                     "width": 20
                 }
             ]
@@ -104,7 +104,7 @@ var Translations = {
             "label": "Thank You",
             "states": [
                 {
-                    "cardId": "7b0123a5",
+                    "cardId": "ee611618",
                     "width": 40
                 }
             ]

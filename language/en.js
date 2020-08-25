@@ -88,7 +88,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Portfoli Allocation",
+            "label": "Portfolio Allocation",
             "states": [
                 {
                     "cardId": "77a834f0",

@@ -46,23 +46,10 @@ var Translations = {
      * If the CTA buttons are not required then remove the content from the variable - "CtaButtonSettings": {};
      */
     "CtaButtonSettings": {
-        "button1": {
-            "card": "End",
-            "label": "Contact",
-            "icon": "contact"
-        },
-        "button2": {
-            "url": "http://crisil.com",
-            "label": "Website",
-            "icon": "website"
-        },
-        "button3": {
-            "card": "d1b4d742",
-            "label": "Email",
-            "icon": "email"
-        }
+       
         
     },
+        
 
     /**
      * Settings for the promo graphic sections. Between 1 and 5 promo areas can be added to the page. 

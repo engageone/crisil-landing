@@ -92,7 +92,7 @@
     --social-bgX: 0%;
     --social-bgY: 0%;
 
-    background: url("../images/social_icons.png") no-repeat;
+   /* background: url("../images/social_icons.png") no-repeat; */
     background-position: var(--social-bgX) var(--social-bgY);
     background-size: 700% 400%;
     border: 0;
